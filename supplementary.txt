@@ -1,0 +1,142 @@
+Resident Evil 2 Remake - Supplementary Notes
+
+// Some tips and tricks
+
+< ------------------------------------------------------------- G E N E R A L >
+
+- Claire runs faster in caution
+
+
+- G2 can die on hardcore with Claire's silenced SMG with 280 bullets and only 1 container swing.
+	- It's actually less bullets, but the extra is for misses and safety. You can get away with even less bullets if you hit major damage points such as the head or his giant eye.
+
+- Lickers are stunned by continuous knifing.
+
+- G3 is stunned by acid rounds and you can easily win the fight exclusively with them.
+
+- I personally find shooting the knees more consistent in staggering than the head.
+
+- Zombies take a surprisingly long time to get up so you can usually de-leg them with a knife while they're in their animation.
+
+- Hardcore zombies tend to double lunge.
+
+- Run in a zigzag pattern and dogs will miss a lot more.
+
+- Mr. X actually walks painfully slow and he's more of an inconvenience than anything.
+
+< ------------------------------------------------------------- R P D >
+
+- The officer slumped at the desk in the west office can be de-legged by standing against the chair he's sitting in and slashing at his thigh. It takes him a few seconds after he stands up to lunge at you so you'll likely get through his leg before he does so. 
+
+- The live zombie in front of the bookshelves in the library doesn't notice you unless you use the ladder or fall through the floor upstairs.
+
+- When in the library, move the rightmost shelf 1 spot to the left, then the leftmost shelf 1 spot to the right. You can get pistol ammo in the corner and it sets up for the library jack later.
+	- Multiple shelves can be moved at once.
+
+- In the east office after you get the bolt cutters, run straight in, then immediately into the smaller office to get the shower valve. After, go for the fuse on the desk and then move the chair blocking the door. Doing this causes the zombie on the far side of the desks to be too slow to grab you.
+
+- In the storage room for the medallion, set the detonator, then run out the door to the library. Wait a few seconds, then run back in. The door will block the shelf from falling.
+
+[ A SCENARIO EXCLUSIVES ]
+
+- In the gas station, after you witness the sheriff die, run past the zombie on the right side. Once you grab the key, wait for it to walk to the back wall/disappear behind the shelves and you can run by it again.
+
+- After "rescuing" Elliot in the Watchman's room, stand by the desk and wait for the zombie to knock on the door. On the third knock, you can run past him as he opens the door.
+
+- Once you pass the press room doors, 2 zombies come from the right hand corner. Run against the white cabinet on the right and you'll avoid them both.
+
+- The licker outside the STARS office is stuck in an animation when you first encounter it. You can ignore it and run into the office.
+	- Walk back to the shower room when you're done with the office and you never have to deal with it.
+
+[ B SCENARIO EXCLUSIVES ]
+
+- At the beginning, after the cutscene with both protagonists ends, sprint directly to the right. Run towards the right side of the opening in the wall where the zombie will be standing up on the left and you will avoid getting grabbed as you go to the first item box room.
+
+- After the jeweled scepter is in your inventory in the art room, immediately sprint backwards. You will either run into, or past the licker, but it will miss its swipe and you can safely leave the room.
+
+- The zombie on the 3rd floor by the spade key can be de-legged and left alone, you will never meet it again.
+
+- Mr. X is triggered by grabbing the battery in the STARS office. Do the maiden medallion last if you don't want him stalking you.
+
+
+< ------------------------------------------------------------- G1 >
+
+- G1 can be knifed for a bit on console if you stick by his arm. If you're lucky, he'll miss his grab and you can knife him further. Otherwise, you just use your knife as a defense item and switch to guns.
+	- You get your knife back when he dies as it drops in front of the ladder after the cutscene.
+
+< ------------------------------------------------------------- GARAGE >
+
+- Leon doesn't need the diamond key.
+
+- I recommend killing the 2 zombies in the morgue as Leon because they can get in the way when you're running past all the dogs.
+
+- Getting the diamond key triggers the zombies in the shooting range to activate.
+
+- As Claire, when you first enter the kennel, hug the left wall to go past licker 1. At licker 2 on the ceiling, hug the right wall as you go down the steps.
+	- On the way back through the kennel, the licker is now on the ground by the steps. Hug the left wall and go up the steps from the side. It'll look like you're touching the licker but it won't notice you. Continue hugging the wall as you turn the corner to avoid the licker on the right side wall.
+	- Outside the kennel, walk along the right side wall to avoid the licker on the ceiling.
+
+< ------------------------------------------------------------- RPD 2 >
+
+- After you douse the helicopter and meet Mr. X, you can stand still and bait the punch. When he starts the animation, run back a little and slip past him on the right. If it fails and he throws you, you have another chance to run by. Otherwise, lead him back out to the roof and run in a large circle to get past him.
+- After you get the panel part from the clock tower, the officer zombie on the opposite side has a chance of facing the right side. You can try slipping behind him but it's not guaranteed.
+
+[ LEON EXCLUSIVES ]
+
+- Tossing a grenade blinding around the corner by the Watchman's Room shutters clears out the zombies and saves time.
+- In the east hallway towards the club room, you can walk to avoid the licker aggro and not worry about Mr. X. He's slow enough that he usually won't catch up to you from the roof by the time you get to the room.
+- When you get the jack and Mr. X comes in the room, you run him around the shelves and walk out the hall again. He shouldn't catch up to you by the time you are around 10 feet from the door can sprint out to the reception without getting hit by the licker.
+
+< ------------------------------------------------------------- ADA >
+
+- Ada's EMF Visualiser hacks faster if you mash the scan button.
+
+< ------------------------------------------------------------- SHERRY >
+
+- In the block puzzle, move the 1st block to the 3rd spot, then solve.
+
+< ------------------------------------------------------------- SEWERS >
+
+- In the bottom waterway on the way to retrieve the queen and king pieces, the route for avoiding the G-Adults is:
+	- Past the green herb you see, you get on the platform. Once you drop down, run forward to where the first G-Adult is. Stick to the left wall and you can run by. This works consistently with Claire, but not Leon, so he should have a safety grenade. Knives put him too far away to slip past after using it.
+	- Next, stick to the right wall and both Claire and Leon can slip by the G-Adult coming from the left.
+	- Run along the left side to avoid the G-Adult coming out of the pipe.
+
+- After getting the pieces, the pipe G-Adult will usually be hanging out nearby. You can bait it by going in and out of the water. Once you see it wiggle, it will sink back in the water. The beginning of the animation is when you want to go back in the water and run by. You may get knocked by it resurfacing, but you can usually run by.
+	- Continue running forward and the G-Adult from the right side will be too slow to grab you.
+	- After you go up onto a platform, go in the water and run forward where the green herb is. The G-Adult ahead will surface and swim at you with it's hand outstretched. Run back towards the platform and it'll sink down before it touches you. When it starts going down, you can run by it on the right side.
+		- On hardcore, a zombie will wake up by where you will be running, but it takes time to fall into the water and won't affect you.
+
+< ------------------------------------------------------------- NEST >
+
+- In the cafeteria, you can gather the grenade on the right side of the door, then the special ammo on the counter to the left of the door, then up the ladder without any zombies bothering you.
+
+- Headshotting the armored zombie outside the kitchen door is best as he is fireproof.
+
+- When leaving the area after getting the wristband chip in the nap room, stick along the right side wall to avoid the wristband triggering the cafeteria door and letting zombies out.
+
+- Down stairs in the lounge, you only need to kill the 3 zombies on the floor by the tables. The one against the wall on the bench is dead.
+
+- Ivys die to 1 flame round with Claire
+
+- Once you grab the wristband chip as Leon in the greenhouse, run out while avoiding ivys. Mr. X is completely useless and isn't a threat.
+
+- Go around the left side of the counter in the greenhouse control room to avoid the ivy on the right of the door.
+
+- During the gauntlet run of explosions after the elevator, Claire can easily slip by the 3 ivys waking up on the walkway, but Leon can't.
+
+[ LEON EXCLUSIVES ]
+
+- Stagger Super Tyrant 3 times to shorten the time before the rocket launcher drops
+
+- You can stall him a little by running so that the cement chunks are between you two so he hits those instead.
+
+[ CLAIRE EXCLUSIVES ]
+
+- Aim only for the eyes on G4 because you have to pop a certain number of eyes to win, not damage him.
+
+- Once he's crawling on the ground, you can stop shooting as he'll die automatically after a set amount of time.
+
+[ G5 ]
+
+- Don't shoot until his eye is open.

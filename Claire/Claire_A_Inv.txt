@@ -1,0 +1,211 @@
+Inventory Guide for CLAIRE A
+
+// Notes:
+	- Does not get SMG
+	- Collect all items and put in item box when in and outside save rooms
+	- "Knife" implies Infinite Knife, "Safety Knife" is disposable knife
+	- Don't worry about retrieving infinite knife if used as defense item after G1
+
+// Legend:
+	[+] Take item
+	[-] Use/Discard item
+	[=] Inventory set up at item box
+	[!] Important
+	[→] Travel path
+	[#/#] Inventory slots used/Total slots
+	[R/B/G] Red/Blue/Green herb
+
+< ------------------------------------------------------------- R P D >
+
+• PRESS ROOM
+	- Key
+	+ Ammo - 2/8
+• BATHROOM
+	+ Spray - 3/8
+• MAIN HALL
+	= Pistol + ammo, knife - 3/8
+• RECEPTION
+	+ Ammo - 3/8
+• OPERATIONS ROOM
+	+ Ammo - 3/8
+• WEST OFFICE HALL (Vending machines hall)
+	+ Ammo - 4/8
+• STAIRS SAVE ROOM
+	! You can grab G outside and put in item box or leave for later
+	= Pistol + ammo, knife - 3/8
+• SAVE ROOM → 2F
+	+ Corner ammo - 3/8
+• SHOWER ROOM
+	+ Flames, portable safe - 5/8
+• SHOWER ROOM → 3F
+	+ Spade key, ammo - 6/8
+• WEST OFFICE
+	! Pouch
+	+ Ammo, powder, speedloader - 7/10
+• LIBRARY
+	+ Ammo, unicorn medal - 8/10
+• MAIN HALL
+	+ Lion medal
+	- Lion and unicorn medals
+	= Pistol + ammo, spade key, portable safe - 4/10
+• UPSTAIRS OFFICE
+	+ JMB mod - 5/10
+• ART ROOM
+	+ Key card - 6/10
+• FIRE ESCAPE
+	+ Ammo, cutters - 7/10
+• EAST OFFICE
+	+ Fuse, valve, ammo, flash - 10/10
+• EAST OFFICE → MAIN HALL
+	- Fuse - 9/10
+• HELL HALL (West halls) → OPERATIONS ROOM → SUPPLY ROOM
+	- Cutters
+	+ Detonator, flash - 9/10
+• SAFETY DEPOSIT ROOM
+	- Key card, portable safe
+	! KEYPAD PIECE GOES IN 2, OPEN 102, 109, 208
+	+ Launcher, flames, powder, ammo - 10/10
+• STAIRS SAVE ROOM
+	= Pistol + ammo, valve, detonator - 4/10
+• SHOWER ROOM
+	- Valve
+	+ Powder - 4/10
+• STARS OFFICE HALL
+	+ Flames - 5/10
+• STARS OFFICE
+	+ Battery, flash, flames, powder, spray, R - 9/10
+• STORAGE
+	- Detonator
+	! Extra ammo on the shelf if needed
+	+ Maiden medal - 10/10
+
+< ------------------------------------------------------------- G1 >
+
+• SECRET ROOM
+	= Pistol + ammo, knife - 3/10
+• UNDERGROUND STAIRS
+	+ Grenade - 4/10
+• G1
+	+ Everything
+
+< ------------------------------------------------------------- GARAGE >
+
+• GARAGE SAVE ROOM
+	= Nothing - 0/12
+• FIRING RANGE
+	+ Car key, flame rounds - 2/10
+• KENNEL
+	+ Powder - 3/12
+• MORGUE
+	+ Flash, R, Diamond key - 6/10
+• GARAGE
+	- Car key
+	+ Pistol - 6/10
+• ELEVATOR CONTROL ROOM
+	+ Launcher mod, powder, B - 9/10
+
+< ------------------------------------------------------------- RPD 2 >
+
+• IRON'S OFFICE
+	+ G outside
+	= Heart key, launcher + mod, flames - 4/10
+• EAST STORAGE
+	+ Gear, panel part, B, safety knife - 9/10
+• ROOF
+	- Safety knife on female zombie at stairs after turning water handle - 8/10
+• HELICOPTER HALL → FIRE ESCAPE
+	+ R, G, combine with B - 9/10
+• RECORDS ROOM
+	+ Jack, grenade - 10/10
+• LIBRARY
+	- Jack - 9/10
+• CLOCK TOWER
+	- Gear
+	+ Large powder, Panel part - 9/10
+• OUTSIDE CLOCK TOWER
+	+ G - 10/10
+
+< ------------------------------------------------------------- SHERRY → ORPHANGE >
+
+! SAVE 1
+• IRON'S OFFICE
+	= Parking pass, launcher, 3 flame rounds, JMB + mod, (optional) safety ammo - 5(6)/10
+• GARAGE
+	- Parking pass - 4/10
+• GARAGE → ORPHANAGE
+	+ G, B, grenade - 7/10
+
+< ------------------------------------------------------------- SEWER : Timecheck 1 hr>
+
+• SEWER OFFICE SAVE ROOM
+	= Launcher, flame rounds - 3/10
+• CONTROL ROOM
+	+ Flame rounds - 3/10
+• CHESS PUZZLE SAVE ROOM
+	= Launcher, flame rounds - 3/10
+• TREATMENT POOL ROOM
+	+ R, T-bar - 5/10
+• DOWNSTAIRS CENTRAL HUB
+	+ G combine with R, grenade - 6/10
+• SUPPLIES STORAGE ROOM
+	+ Q/K plugs, spark shot - 10/10
+• SAVE ROOM
+	= T-bar, launcher, flames - 4/10
+• SAVE ROOM → WORK ROOM
+	+ Powder, B, MAG rounds, ammo, rook piece - 9/10
+• TREATMENT POOL ROOM
+	+ MAG mod - 10/10
+
+! SAVE 2
+• SAVE ROOM
+	= Fighting loadout with safety flash and heal
+• SAVE ROOM → BREAKER ROOM
+	+ RGB - 5/10
+• G2
+	+ Everything
+
+< ------------------------------------------------------------- N E S T >
+
+• RECEPTION SAVE ROOM
+	= Pistol + ammo, wristband - 3/10
+• CAFETERIA/KITCHEN
+	+ Grenade, needles, powder, knife - 7/10
+• NAP ROOM
+	+ Flame rounds, spark shot mod, wristband chip - 9/10
+• RECEPTION SAVE ROOM
+	= Launcher, flames, wristband - 4/10
+• GREENHOUSE CONTROL ROOM
+	+ Flash, cartridge - 6/10
+• DRUG TESTING LAB (Cartridge solution puzzle room)
+	+ Grenade, powder - 8/10
+• LOUNGE (Vending machines hall)
+	+ Flames - 8/10
+• STORE ROOM
+	+ Modulator, powder - 10/10
+• LOBBY SAVE ROOM
+	= Launcher, flames, cartridge, modulator, safety knife, wristband - 7/10
+• FREEZING ROOM
+	+ Powder - 8/10
+• SERVER SAVE ROOM
+	= Launcher, flames, cartridge, modulator, safety knife, wristband - 7/10
+• MAINTANANCE TUNNEL
+	+ Powder - 8/10
+• GREENHOUSE → GREENHOUSE CONTROL ROOM
+	+ R - 11/12
+• GREENHOUSE CONTROL ROOM
+	- Cartridge - 10/12
+• GREENHOUSE
+	+ B combine with R - 10/12
+• GREENHOUSE → G3
+	+ Everything
+• G3
+	! SAVE 3
+	= Fighting loadout + wristband
+• GAUNTLET
+	= Launcher/flames OR pistol/ammo
+• G4
+	= RGB x 2, grenade, pistol + ammo - 5/10 (3 free spaces)
+
+
+
+

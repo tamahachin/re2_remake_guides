@@ -1,0 +1,248 @@
+Inventory Guide for LEON B
+
+// Notes:
+	- Collect all items and put in item box in and right outside save rooms
+	- "Knife" implies Infinite Knife, "Safety Knife" is disposable knife
+	- Knife is used to kill RPD zombies after delegging
+	- Don't worry about retrieving infinite knife if used as defense item after G1
+
+// Legend:
+	[+] Take item
+	[-] Use/Discard item
+	[=] Inventory set up at item box
+	[!] Event
+	[→] Travel path
+	[#/#] Inventory slots used/Total slots
+	[R/B/G] Red/Blue/Green herb
+
+< ------------------------------------------------------------- R P D >
+
+• COURTYARD
+	+ R, B
+• GUARD ROOM SAVE ROOM
+	+ Everything
+	= Pistol, ammo, knife, grenade, key, cutters - 6/8
+• COURTYARD
+	- Grenade group of zombies - 5/8
+• FIRE ESCAPE
+	- Key
+	+ Ammo, boards - 5/8
+• ART ROOM/HALL
+	+ Boards, keycard - 6/8
+• BREAK ROOM HALL
+	+ Knife, shells - 8/8
+• BREAK ROOM SAVE ROOM
+	+ Fuse
+	= Pistol + ammo, knife, cutters, keycard, fuse, boards - 7/8
+• EAST OFFICE
+	+ Valve handle - 8/8
+• EAST OFFICE → MAIN HALL
+	- Fuse - 7/8
+• RECEPTION
+	+ Ammo - 7/8
+• HELL HALL (West halls)
+	- Boards on first 2 windows - 6/8
+• OPERATIONS ROOM → SUPPLY ROOM
+	- Cutters
+	+ Ammo, detonator - 6/8
+• WEST OFFICE HALL (Vending machines hall)
+	+ Ammo - 6/8
+• SAFETY DEPOSIT ROOM
+	- Keycard
+	+ Shotgun, reload with ammo - 6/8
+• STAIRS SAFE ROOM
+	+ G outside save room
+	= Pistol, ammo, knife, valve, detonator - 5/8
+• SAVE ROOM → 2F
+	+ Corner ammo - 5/8
+• SHOWER ROOM
+	- Valve
+	+ Shells, jewel box 6/8
+• SHOWER ROOM → 3F
+	+ MAG ammo, spade key - 8/8
+• STAIRS SAVE ROOM
+	= Knife, detonator, pistol + ammo, jewel box, spade key - 6/8
+• WEST OFFICE
+	! Pouch
+	+ Ammo, Matilda mod - 7/10
+• LIBRARY
+	+ Unicorn medal, ammo, red book 9/10
+• ART ROOM
+	- Jewel Box, red book, spade key
+	+ USB Key - 7/10
+• WAITING ROOM
+	+ Matilda mod - 8/10
+• LOBBY
+	+ Lion medal
+	- Lion and unicorn medals 7/10
+• STARS HALL
+	+ Shells 8/10
+• STARS OFFICE
+	! Retrieve USB after getting Magnum
+	+ Battery, ammo, shells, magnum, powder - 10/10
+• WEST STORAGE ROOM
+	- Detonator
+	+ Maiden medal, ammo, powder combined for shells - 9/10
+
+< ------------------------------------------------------------- G1 >
+
+• SECRET ROOM
+	= Knife, pistol + ammo, USB, spray - 5/10
+• UNDERGROUND STAIRS
+	- USB
+	+ Mag mod, grenade - 6/10
+• G1
+	+ Everything
+
+< ------------------------------------------------------------- GARAGE >
+
+• GARAGE SAVE ROOM
+	= Pistol + ammo, knife - 3/10
+• JAIL
+	+ Crank - 4/10
+• FIRING RANGE
+	+ Shells, car key - 6/10
+• GARAGE
+	- Car key
+	+ Matilda stock - 6/10
+• KENNEL
+	+ Powder - 7/10
+• BREAKER ROOM
+	+ Panel part, G- 9/10
+
+< ------------------------------------------------------------- RPD 2 >
+
+• BREAK ROOM SAVE ROOM
+	= Shotgun + shells, crank, grenade - 4/10
+• OUTSIDE SAVE ROOM
+	- Grenade on zombie group around corner, fuse - 3/10
+• FIRE ESCAPE → ART ROOM HALL → UPSTAIRS FROM IRON'S OFFICE
+	- Crank
+	+ Ammo, flash - 4/10
+• EAST STORAGE
+	+ Shells, gear - 6/10
+• ROOF
+	+ G x 2 - 8/10
+• ROOF SAVE ROOM
+	= Club key, safety knife, shotgun, ammo, gear - 6/10
+• ROOF BY HELICOPTER
+	+ Ammo - 7/10
+• HELICOPTER HALL
+	+ R + G - 8/10
+• RECORDS ROOM
+	+ Jack, grenade - 10/10
+• LIBRARY
+	- Jack - 9/10
+• CLOCKTOWER
+	- Gear
+	+ Panel part, powder - 9/10
+• OUTSIDE CLOCKTOWER
+	+ G - 10/10
+• EAST STORAGE
+	+ B combine with R/G - 10/10
+• BREAK ROOM SAVE ROOM
+	= 2 panel parts, flash, optional safety weapon + ammo - 5/10
+• JAIL
+	- Flash on zombie group after dodging Mr. X, panel parts
+	+- Parking pass
+	+ Spray - 5/10
+• KENDO GUN SHOP
+	+ Shotgun mod, ammo, grenade - 5/10
+• ALLIGATOR SAVE
+	! SAVE 1
+	= Matilda - 1/10
+• POST ALLIGATOR
+	+ Grenade - 2/10
+
+< ------------------------------------------------------------- ADA TIME>
+
+• ADA TIME
+
+< ------------------------------------------------------------- SEWERS : Timecheck 1 hr >
+
+• SEWER ENTRANCE ITEM BOX
+	= Shotgun + shells - 3/10
+• SEWER ENTRANCE → CONTROL ROOM
+	+ Shells, MAG ammo, safety knife - 5/10
+	- Safety knife on G-adult - 4/10
+• SEWER SAVE ROOM
+	= Shotgun + shells, safety grenade - 4/10
+• WATER TREATMENT ROOM
+	+ Shotgun mod, T-bar - 5/10
+• DOWNSTAIRS
+	+ G, Grenade - 6/10
+• STORAGE
+	+ Q/K pieces, flamethrower, R combine with G - 10/10
+• SEWER SAVE ROOM
+	= Shotgun, ammo, T-bar - 4/10
+• SAVE ROOM → WORK ROOM → SAVE ROOM
+	+ Rook, B, pistol ammo, Shells, powder - 8/10
+• G2
+	! SAVE 2
+	+ Everything
+
+< ------------------------------------------------------------- NEST >
+
+• RECEPTION SAVE ROOM
+	= Shotgun + shells, wristband - 4/10
+• CAFETERIA/KITCHEN
+	+ Grenade, fuel, powder, knife - 8/10
+• NAP ROOM
+	+ Ammo, flamethrower mod, wristband chip - 9/10
+• WALKWAY
+	+ Modulator - 10/10
+• NAP ROOM
+	! Pouch - 10/12
+• RECEPTION SAVE ROOM
+	= Shotgun + shells, flamethrower + mod, wristband, modulator - 7/12
+• GREENHOUSE CONTROL ROOM
+	+ Cartridge, flash - 9/12
+• DRUG TESTING LAB (Cartridge solution puzzle room)
+	+ Grenade, powder - 11/12
+• LOUNGE (Vending machines hall)
+	+ Shells - 11/12
+• FREEZING ROOM
+	+ Powder - 12/12
+• SERVER SAVE ROOM
+	= Flamethrower, cartridge, wristband, safety knives x 3 - 7/12
+• MAINTANANCE TUNNEL
+	+ Powder - 8/12
+• GREENHOUSE → GREENHOUSE CONTROL ROOM
+	+ R - 9/12
+• GREENHOUSE
+	+ B combine with R - 9/12
+• GREENHOUSE → G3
+	+ Everything
+• G3
+	! SAVE 3
+	= Fighting loadout + wristband
+• GAUNTLET
+	= Flamethrower, safety knives
+• SUPER TYRANT
+	= Fighting loadout with upgraded Matilda, flashes, heals
+		! Theory: ~9 grenades should cause rocket launcher to drop faster
+• G5
+	= DPS loadout
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

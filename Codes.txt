@@ -1,0 +1,33 @@
+[-------------------- 1st run --------------------] . [-------------------- 2nd run --------------------]
+                                                    .                                                  
+< ----------------------------------------------- R P D ----------------------------------------------- >
+Lion: Lion, grass, bird                             .                            Lion: Crown, torch, bird  
+Unicorn: Fish, bug, jug               [  West office safe: 9-15-7 ]          Unicorn: Twins, scales, worm  
+Maiden: Woman, bow, snake             [ Waiting room safe: 6-2-11 ]               Maiden: Ram, harp, bird  
+                                                    .                              
+< -------------------------------------------- G A R A G E -------------------------------------------- >  
+Leon Generator: 0011                                .                                Leon Generator: 0110  
+                                                    .                                                     
+ Leon panel:             Claire panel:              .              Leon panel:              Claire panel:
+ .___   ___..            ._____   _..               .                     _                 ._   _     
+     | |_                   _  | |                  .              ._   _|_|                  |_|_|_  
+    _|___|                 | | |_|                  .                |_| |                     _|___|
+ ._| |_|                 ._| |_|                    .              .___| |___..             ._| |____..
+                                                    .                                                      
+< -------------------------------------------- S H E R R Y -------------------------------------------- >  
+                                                    .                                                      
+                                  Move 1st block to 3rd position and solve                                 
+                                                    .                                                      
+< --------------------------------------------- S E W E R --------------------------------------------- >  
+Chess:                                              .                                              Chess:  
+N K                                       [ Sewer safe: 2-12-8 ]                                      K N  
+R Q                                                 .                                                 B R  
+B P                                                 .                                                 Q P  
+                                                    .                                                      
+Power room: 1101                                    .                                    Power room: 0111
+                                                    .                                                    
+< ---------------------------------------------- N E S T ---------------------------------------------- >  
+                                                    .                                                      
+NEST codes: 3123, 2067                              .                              NEST codes: 5831, 2048  
+                                                    .                                                      
+Cartridge: RGB-RGB-RG                               .                              Cartridge: BRG-BRG-BRG  
