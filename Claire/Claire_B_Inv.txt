@@ -182,14 +182,14 @@ Inventory Guide for CLAIRE B
 • NAP ROOM
 	! Pouch - 10/12
 • RECEPTION SAVE ROOM
-	= Launcher, flames, bracelet, modulator - 5/12
+	= Launcher, flames, wristband, modulator - 5/12
 • GREENHOUSE CONTROL ROOM
 	+ Flash, cartridge - 7/12
 • DRUG TESTING LAB (Cartridge solution puzzle room)
 	+ Grenade, powder - 9/12
 • LOUNGE (Vending machines hall)
 	+- 3 flame rounds for zombies
-• FREEZING ROOM
+• LOW-TEMP TESTING LAB
 	+ Powder - 10/12
 • SERVER SAVE ROOM
 	= Launcher, flames, wristband, modulator, cartridge, safety flash, 2 safety knives - 9/12

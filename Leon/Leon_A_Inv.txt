@@ -198,7 +198,7 @@ Inventory Guide for LEON A
 	+ Modulator, powder - 10/10
 • LOBBY SAVE ROOM
 	= Launcher, flames, cartridge, modulator, safety knife, wristband - 7/10
-• FREEZING ROOM
+• LOW-TEMP TESTING LAB
 	+ Powder - 8/10
 • SERVER SAVE ROOM
 	= Launcher, flames, cartridge, modulator, safety knife, wristband - 7/10

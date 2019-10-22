@@ -1,0 +1,617 @@
+Route guide for CLAIRE B
+
+// Expected completion time: 1 hour, 45 minutes
+
+// Notes:
+	- Collect all items and put in item box when in and outside save rooms
+	- "Knife" refers to the Infinite Knife, "Safety Knife" is disposable knife
+	- "Pistol" refers to the Quickdraw Army, other guns will be referred to by name
+	- Default travel mode is sprinting
+	- Inventory routing is included in this guide, so avoid grabbing anything outside of what is stated
+		- Exception is if using this on Assisted or Standard, you have 6 easy to obtain slots to use
+	- Ammo in inventory set up is limited to max 1 stack for inventory management purposes
+	- Claire runs faster in caution, so consider waiting to heal until you hit danger
+
+// Saves:
+	#1 : In Chief's Office after Sherry's section
+	#2 : In sewers right before G2
+	#3 : In NEST right before G3
+
+// Legend:
+	[→] Travel path
+	[R/B/G] Red/Blue/Green herb
+
+< ------------------------------------------------------------- R P D >
+
+• COURTYARD
+	- Courtyard → Fire Escape and pick up R and B on the way
+	[ Claire cutscene after bolt cutter pick up]
+	- As soon as you can, sprint directly to the right and continue back to the stairs → Guard Room
+
+• GUARD ROOM SAVE ROOM
+	- Gather all items and set up your inv: Pistol + ammo, knife, grenade, key, cutters
+
+• COURTYARD
+	- On the way back to the fire escape, you may have to kneecap the officer zombie on the stairs up to stun and run by
+	- When you are close enough, toss the grenade at the group of zombies ahead and run through
+
+• FIRE ESCAPE
+	- Grab the ammo on the bins and head upstairs, discard key
+
+• ART ROOM/HALL
+	- Grab the weapons locker keycard from the art room table
+	- On the way back to the fire escape, there are 2 flaming zombies
+		- Kneecap and de-leg both with your gun, then knife them until they stop moving the first time, the fire should finish them off
+	- Go Fire Escape → Watchman's Room → Break Room hall
+
+• BREAK ROOM HALL
+	- Grab the flame rounds on the shelf outside the save room
+
+• BREAK ROOM SAVE ROOM
+	- Grab everything in the room, then set up your inventory: Pistol + ammo, knife, cutters, keycard, fuse
+	- Back out the hall → Watchman's Room → outside East Office
+	- A zombie will come in through the window
+		- Knife it's leg off while it's getting up, pistoling if needed, then kill with knife
+	- Break chains on East Office door and enter
+
+• EAST OFFICE
+	- Run straight forward and break left into the smaller office to grab valve handle
+	- Get the fuse off the desk then immediately pull the chair barring the door and exit
+		- Doing this pattern keeps the zombie on the other side of the desks from coming around too fast and getting you
+	- Use the fuse on the box in the hall and go to Main Hall
+
+• MAIN HALL
+	- 3 zombies will be wandering, man by the desk, Marvin by the statue, and a lady upstairs. De-leg and kill all
+	- Head to Reception
+
+• WEST HALLS → OPERATIONS ROOM → SUPPLY ROOM
+	- Grab ammo from the bench in Reception
+	- Go to West Halls → Operations Room
+	- Grab ammo from the chairs on the left, then break chains on the door in the back
+	- Discard bolt cutters and enter Supply Room
+	- Grab detonator and ammo, unlock bolted door, exit to vending machine hall
+
+• WEST OFFICE HALL (Vending machines hall)
+	- Go left and grab the ammo at the end of the dead end hallway
+	- Go back to the vending machine and de-leg the officer zombie wanting a snack, knife to death
+	- De-leg the officer zombie on the ground outside the office door and kill
+	- Enter Safety Deposit Room
+
+• SAFETY DEPOSIT ROOM
+	- Open locker 109 and get ammo
+	- Use keycard and grab Grenade Launcher and flame rounds, reloading
+	- Exit and head towards stairs save room
+
+• OUTSIDE STAIRS SAVE ROOM
+	- If you're fast enough, you can de-leg the window zombie with a knife before he gets up. Kill him.
+	- A female zombie will drop down behind you, back up if you haven't taken care of window zombie yet and kill both
+	- Board up the window with boards nearby and grab G
+	- Enter save room
+
+• STAIRS SAVE ROOM
+	- Gather everything in save room and set up inventory: Pistol + ammo, knife, valve, detonator - 5/8
+	- Exit and head upstairs
+
+• SAVE ROOM → 2F
+	- Grab the ammo in the corner at the top of the stairs, 2F
+	- A zombie will be either outside the shower room or coming down the stairs, de-leg and kill
+	- Go to shower room
+
+• SHOWER ROOM
+	- Use valve on shower, open locker with "CAP" and grab flame rounds from there and the locker nearby, and jewel box on shelf
+	- Exit back to hallway → upstairs
+
+• 3F
+	+ Sub ammo, spade key - 8/8
+	- Grab ammo on the boxes upstairs
+	- A zombie will wander out by the mannequin shadow, de-leg. You can kill if you want, but he's easy to dodge when he's crawling
+	- Open locker with "DCM" and grab SMG ammo, then spade key on desk
+	- Go downstairs → Stairs save room
+
+• STAIRS SAVE ROOM
+	- Set up your inventory: Pistol + ammo, knife, detonator, jewel box, spade key
+	- Exit → West Office
+
+• WEST OFFICE
+	- Stand against the chair the officer zombie is slumped over and knife at his thigh, it should de-leg him, otherwise, pistol his leg off when he stands, and kill
+	- De-leg and kill zombie in the small office
+	- Open safe with "9-15-7" and grab hip pouch
+	- Grab ammo in the locker against the wall by the small office
+	- Unlock spade door and exit to Main Hall
+	- Go Main Hall → upstairs → Library
+
+• LIBRARY
+	+ Unicorn medal, ammo, red book 8/10
+	- Unlock the spade door and open with button press
+		- The female zombie will likely be right by the door. Let her break out into the Main Hall, then de-leg and kill
+	- Enter library, de-leg and kill the large zombie sitting to the right of the door
+	- Grab Red Book off table by the door
+	- Move the bookshelves
+		- The rightmost shelf 1 spot to the left, the leftmost shelf 1 spot to the right
+		- The eating zombie by you will not activate unless you use the ladder or fall through the 2F library floor
+	- Grab the ammo where the leftmost shelf was
+	- Head to Lounge
+
+• LOUNGE
+	- Grab Unicorn medal with "Twin, Scales, Worm"
+	- Exit to Library → Main Hall → Waiting Room → Art Room
+
+• ART ROOM
+	- Discard spade key and combine the red book with the hand on the table
+	- Insert into statue and grab scepter
+	- Combine jewel with jewel box to get USB key
+	- [Important] The moment you exit the menu, sprint backwards and you will either run straight into, or past the licker but it will miss hitting you
+	- Exit to hall → Waiting Room
+
+• WAITING ROOM
+	- Open safe with "6-2-11" and grab JMB mod
+	- Go to Main Hall
+
+• MAIN HALL
+	- Grab Lion medal with "Crown, Torch, Bird"
+	- Place both lion and unicorn medals in the statue
+	- Go to East Office → Stairs outside save room → 2F → Shower room → through shower to STARS office hallway
+
+• STARS OFFICE HALL
+	- Grab flame rounds on the couch outside the women's locker room
+	- Go to STARS Office
+
+• STARS OFFICE
+	- Grab battery and combine with detonator from Albert's office
+	- Unlock weapons locker with USB key, then grab USB key back
+	- Grab the SMG, ammo from trolley, flame rounds on desk, spray in first aid bag, powder on filing cabinet
+	- Exit STARS office and sprint to the right as Mr. X has spawned on the left around the corner
+	- Go Shower Room → Upstairs to 3F → West Storage Room
+		- Mr. X music will play when you get to where the spade key was, but will fade out when you go to the storage room, don't panic
+
+• WEST STORAGE ROOM
+	- Grab ammo from shelf and place detonator on the C4
+	- Run out the door to the library, where the ceiling zombie is, then wait a few seconds
+	- Running back in a couple seconds before the explosion causes the door to keep the bookshelf upright
+	- Grab Maiden medal with "Woman, Bow, Snake"
+	- Exit to Library → Main Hall
+		- When leaving the Maiden medal cell, run to the right side of the table towards the door
+		- Just ignore Mr. X, you probably won't even see him
+
+• SECRET ROOM
+	- Use Maiden medal on statue and enter Secret Room
+
+< ------------------------------------------------------------- G1 >
+
+• SECRET ROOM
+	- Grab everything and set up your inventory: Pistol + ammo, knife, USB, safety spray
+	- Go down elevator → all the way downstairs
+
+• UNDERGROUND STAIRS
+	- Use USB on weapons case and grab SMG silencer, as well as the grenade on the floor
+		- Leave USB
+
+• G1
+	- At the start of G1, get up against his arm and knife him
+	- Try to stay as close as possible but to the side
+	- He has a chance of missing his grab to give you some extra slashes, but most likely he'll grab you first time
+		- Use you knife as defense and switch to normal shooting and kill
+		- Don't panic if you get grabbed as you have a safety grenade
+	- After the fight, grab all supplies and pick up your knife from in front of the ladder if you want, but not necessary
+	- Up the ladder, grab the powder from the locker and G on the ground at the room to your right
+	- Go to Garage Save Room
+
+< ------------------------------------------------------------- GARAGE >
+
+• GARAGE SAVE ROOM
+	- Set up your inventory: Nothing
+	- Go up ladder, trigger parking pass cutscene
+	- Go to East Central Passage → Firing Range
+
+• FIRING RANGE
+	- Go into the firing range itself and grab flame rounds in the back, the zombies are inactive
+	- Get Yellow Box on table and exit
+	- Go hall → Kennel
+
+• KENNEL
+	- [Important] WALK into the Kennel and hug the left wall to avoid the licker in the middle of the room
+		- You can grab the powder to the right of the door in the bins now or later when you come back
+	- Once you are clear, hug the right wall where the cages are and go down the steps to avoid the licker on the ceiling
+	- Exit and go to Morgue
+
+• MORGUE
+	- From the door, on the right side wall, open the leftmost gate and the 2nd from the right gate for a flash and R
+	- On the left side wall, open the 2nd from the left gate for the diamond key
+	- The zombie will immediately wake up but just run away and exit the room → Kennel
+		- If you pull the slab out the perfect amount short of fully extended, you can grab the key without the zombie activating
+		- The distance is very finicky and really not worth the effort but is kind of cool to try
+		- Sometimes you can grab the key if you mash X while Claire is rocking back and forth during her animation, causing her to be close enough
+
+• KENNEL
+	- [Important] WALK into the kennel and stick along the leftside wall against the shelves
+		- A licker will by right next to the steps but if you stick as close to the wall as you can, you can go up the steps from the side
+		- It will look as if the licker is touching you but won't notice you
+	- Continue along the leftside wall around the corner to avoid the licker on the wall
+		- Grab the powder now if you didn't do so the first time
+	- Exit the room → Garage
+
+• GARAGE
+	- Open the Yellow Box and use the car key to unlock the police car trunk
+	- Grab the JMB pistol and go to the Elevator Control Room
+
+• ELEVATOR CONTROL ROOM
+	- Get the B in the corner, Grenade Launcher mod in the locker, powder on the table
+	- Turn on the power for the elevator and go upstairs
+
+< ------------------------------------------------------------- RPD 2 >
+
+• ROOF TERRACE
+	- On the way to the Chief's Office, grab the G
+
+// Note: You can save here if you feel more comfortable. Anywhere from here to after Sherry's section should be fine based on personal preference.
+
+• CHIEF'S OFFICE
+	- Gather everything and set up your inventory: Heart key, Grenade Launcher + mod, flame rounds
+	- Exit and head upstairs → East Storage
+
+• EAST STORAGE
+	- In the room, turn left and grab the flame rounds on shelf
+	- An officer zombie will appear from your right, flame round him and wait for him to fall down from the fire
+	- Go right, from where he came from, and another zombie will be at the end of the room, flame him as well
+	- Unlock the heart door and grab the orange box and safety knife from the mannequin
+	- Back in the storage room, grab the B on the shelf and the gear on the boxes
+	- Exit → Balcony → ladder down to Roof → Downstairs to Backyard
+
+• ROOF
+	- Turn the water handle and go back towards the stairs, the zombie by the fence will be too slow getting up to reach you
+	- Let the female zombie by the stairs grab you and use the safety knife on her
+	- Go upstairs and douse the helicopter fire
+	- Through the door to East Hallway (Helicopter Hall as I call it)
+
+• HELICOPTER HALL → WAITING ROOM
+	+ R, G, combine with B - 8/10
+	- Upon entering, grab the R on the floor and combine with B
+	- Get past Mr. X
+		- You can stand in front of him as he lifts the helicopter and bait out the punch, running back a little dodge, then slip by his right side
+			- It's a little tricky as he can still grab and throw you, if that happens, you have a chance to run by him again
+		- Easy way is run back out to the roof, make a big circle and back into the hall
+	- Grab G on window sill outside Fire Escape door and combine with RB
+	- Go to Waiting Room → Main Hall → West Office
+
+• WEST OFFICE
+	- [Important] WALK when you exit the West Office straight towards the Supply Room to avoid the licker
+	- Unlock heart door in Supply Room → Records Room
+
+• RECORDS ROOM
+	+ Jack, grenade - 10/10
+	- Grab the Jack handle and grenade on the table, then run to the other end of the room
+	- Mr. X usually breaks in (very rarely he just gets lost)
+		- Run him around the shelves and exit
+	- [Important] WALK from the Supply Room back to the West Office → Main Hall → Library
+		- Don't panic, Mr. X is pathetically slow here and won't catch up
+
+• LIBRARY
+	- Use the Jack handle and grab the leftmost shelf to move all of them at the same time 1 spot to the right
+	- Climb the ladder and cross the shelf bridge to Main Hall 3F
+
+• MAIN HALL 3F
+	- From the door, run right and down to the end
+		- There is a pillar at the corner to your left where a zombie is hidden, flame round him when you see his body
+	- Break right into the clock tower door
+
+• CLOCK TOWER
+	- Use gear to lower stairs, take back, then upstairs
+	- Replace small gear with large, place small gear downstairs
+	- Go to back of the room and grab Large gunpowder at the end of South West Hallway 3F
+	- Grab orange box in clock tower and exit
+
+• MAIN HALL 3F
+	+ G - 10/10
+	- Grab G to the right of the door
+	- Mr. X likely won't be in the way, but if he is, just run him a circle to get around
+	- There is a chance the officer zombie on the opposite side is facing to the right, you can attempt to slip past behind him
+		- Just flame round him, really.
+	- Go to other side of the floor and unbolt door back to East Storage
+	- Go through the room to opposite door and downstairs back to Chief's Office
+
+< ------------------------------------------------------------- SHERRY >
+
+• BEDROOM
+	- Grab the doll behind you and get the block from inside
+	- Place it in the puzzle and move the 1st block to the 3rd spot, then rotate blocks to solve
+	- Use scissors on duct tape, then move through orphanage to Director's Room for key
+	- Go back to Nursery with Irons chasing
+
+• NURSERY HIDE AND SEEK
+	- Crouch behind the white cabinet right after you crawl under the colorful arch and face towards the door you came in from
+	- When Irons destroys the arch, he'll go towards your right, so go to the left and around the cabinet as he circles
+	- Wait on the side of the cabinet as he goes towards the kitchen, then back towards the colorful arch
+	- When he stubs his toe, you can stand and run around the barrier of tables towards the bathroom
+	- Crouch and hide under the table on the right side about halfway to the bathroom, wait
+	- After the cutscene, grab the bathroom key, exit back to the Director's Office, finish
+
+< ------------------------------------------------------------- CLAIRE >
+
+• CHIEF'S OFFICE
+	- After the cutscene, go back to the main office area and SAVE #1
+	- Set up your inventory: Parking pass, grenade launcher, 3 flame rounds, JMB + mod, (optional) safety ammo
+		- The optional pistol ammo requires you to use up some powder. The JMB + magazine mod should give you enough ammo until the next item box
+	- Go back to the Garage
+
+• GARAGE
+	- Using the parking pass, Mr. X will come towards you from behind and to the right
+		- Just run in a circle around the pillar and the shutters should be open enough for you to leave
+	- Outside, there are 2 zombies at the fence gate, when you approach, they will break through
+	- You can use up to 2 flame rounds to deal with them
+	- Up the stairs → Walkway → Downstairs to Backyard
+
+• THE WHOLE DOG MESS SECTION
+	- When you go downstairs, a zombie will be standing around, you can kneecap stun her and climb over the dumpster
+	- Kill the dog at the fence, then to the left and out the fence gate
+	- Kill the dog that jumps up on the car, then around the car
+	- Kill dog having a snack, then into the basketball court
+	- Grab SMG ammo and G on the bench, then kill two dogs at the fence
+	- You can probably dodge this next dog by running zigzag until you get to the bus
+		- Grab the B by the bus
+	- In the bus, grab the grenade and flame round the zombie at the far end and wait for it to fall down
+	- Exit the bus and start zigzagging towards the orphanage door, enter
+
+• ORPHANAGE
+	- Go to Director's Office, find Sherry, run to elevator for cutscene
+
+< ------------------------------------------------------------- SEWER : Timecheck 1 hr>
+
+• POST-WAKE UP CUTSCENE
+	- Once you gain control, grab the SMG ammo from the bins to your left then go through the door to the Sewer Office Save Room
+
+• SEWER OFFICE SAVE ROOM
+	- Gather everything and set up your inventory: Grenade Launcher, flame rounds
+	- Exit → Drop down → Linear path up to Control Room
+
+• CONTROL ROOM
+	- Run to the back left corner and grab flame rounds from the chair, then turn and either kill or dodge the zombies
+		- Killing may be preferable for the locker
+	- Unlock the locker with "SZF" and grab SMG ammo, drop down to Save Room
+
+• MONITOR ROOM SAVE ROOM
+	- Set up your inventory: Grenade Launcher, flame rounds
+	- Exit to Treatment Pool Room
+
+• TREATMENT POOL ROOM
+	+ R, T-bar - 5/10
+	- Pull level and cross bridge, turn left
+	- Grab the R in the corner and T-Bar handle on the table
+	- Go back and through the door to Downstairs Central Hub
+
+• DOWNSTAIRS CENTRAL HUB
+	- As you near the bottom of the stairs, 2 zombies will come towards you
+		- Wait until they are close to each other and you can possibly kill them with 1 flame round. Otherwise, use 2
+	- Flame round the zombie on the floor
+	- Grab G to the right and combine with R
+	- Pull level for the gate, then drop down into the water and to the left for a grenade
+	- Climb back up and use T-Bar handle to open way to Bottom Waterway Overpass → down ladder to Bottom Waterway
+
+• BOTTOM WATERWAY
+	- From the ladder, take note of the G in the heavenly spotlight, it will serve as a landmark
+	- Go up and across the platform to the left and down the other side into the water
+	- Run forward and hug the left side, you should be able to slip by the G-Adult that pops up
+		- If it grabs you, don't panic, use your safety grenade, then run by
+	- Run forward and then hug the right side to slip past the G-Adult coming from the left
+	- Continue forward and stick to the left to avoid the G-Adult coming from the pipe
+	- Flame round the hi-vis vest zombie and get up on the platform → through door, upstairs → Supplies Storage Room
+
+• SUPPLIES STORAGE ROOM
+	+ Q/K plugs, spark shot- 10/10
+	- Downstairs, grab Queen plug, plug it in the next spot by the zombie on the floor, flame round the zombie
+	- Through the gate, go up the stairs halfway, then down to flame round the zombie that drops
+	- Grab King plug and drop down, then back through the gate towards the charred zombie
+	- Plug King in and grab Sparkshot
+	- Grab all plugs, put Queen in it's original spot, King in the spot opposite the stairs we came in with
+	- Grab Queen, then King, exit room → Bottom Waterway
+
+• BOTTOM WATERWAY
+	- The pipe G-Adult will probably be near the platform you're on, so you can get in and out of the water to bait it a little closer
+	- Once it does a little wiggle, it means it's submerging. Get back in the water and run by it
+	- Stick to the left side more to avoid the next G-Adult coming from the right, then up the platform straight ahead
+	- When you drop down, run by the G-herb we noted previously and a G-Adult should pop up ahead
+		- It will run towards you with it's hand out, just run back until you hit the platform and wait
+		- When it stops, it's already submerging so run by it, ignoring the zombie that will drop from the platform to your right
+	- Up the ladder → Downstairs Central Hub → Monitor Room Save Room
+
+• MONITOR ROOM SAVE ROOM
+	- Set up your inventory: T-bar handle, Grenade Launcher, flame rounds
+	- Exit → Downstairs Central Hub
+
+• DOWNSTAIRS CENTRAL HUB + LOWER WATERWAY
+	- Drop down into the water and go through the gate we opened previously
+	- Grab the powder on the pile of sewage and continue forward
+	- Stick to the left side to avoid the G-Adult coming from the pipe and get on the platform
+	- Grab the B and use T-Bar handle on the door, enter
+	- Grab MAG rounds on bins to the left, then up the lift → Work Room
+
+• WORK ROOM
+	+ Powder, B, MAG rounds, ammo, rook piece - 9/10
+	- Flame round the zombie on the floor
+	- Grab pistol ammo, then unbolt the door and exit
+	- Quickly grab the rook piece from the wall then run back to the Work Room to avoid the zombie around the corner
+	- Back down the lift → Lower Waterway
+
+• LOWER WATERWAY
+	- The G-Adult will be hanging around near the T-Bar handle door so do the same as before and wait for it to wiggle to submerge and run by
+	- Go back to Downstairs Central Hub → Treatment Pool Room
+
+• TREATMENT POOL ROOM
+	- From the stairs door, go left to the safe and open with "2-12-8" for MAG mod
+	- Return to Monitor Room Save Room
+
+• MONITOR ROOM SAVE ROOM
+	= SMG + mod, 280 ammo - 4/10
+	- Standing facing the bulletin boards by the chess puzzle, the order is:
+		KING	KNIGHT
+		BISHOP	ROOK
+		QUEEN	PAWN
+
+	- Save #2
+	- Set up your inventory: SMG + Silencer, 280 SMG ammo
+		- This set up has a bit of safety buffer in the ammo in case you miss, but also requires you to occasionally hit some higher damage places, such as G2's head or his large eye. Feel free to bring safety heals and weapons.
+		- Or just take whatever you want to take for this fight
+
+• SAVE ROOM → BREAKER ROOM
+	- On the way to the Breaker Room through the door you unlocked, there is a full set of RGB herbs to combine
+	- Flip the switches 0111 (Off, On, On, On)
+
+< ------------------------------------------------------------- G2 >
+
+• BREAKER ROOM
+	- When you flip the switches, run towards the door and back to trigger his arm coming through the ceiling
+	- Run to the spot between the breaker panel and the hoses on the floor and it should prevent him from hitting you
+	- After he gets tired, he'll hit the shutters
+		- Run against the shutters towards the left half and you will slip by him when he breaks it open
+	- Drop down into the battle area and hit the switch to move the container
+
+	[ If using the 280 SMG method ]
+		- Hit him primarly in the body to avoid missing shots
+		- Try to hit his head and eyeball if you can for extra damage to ensure 1 cycle kill
+		- Continue hitting him through his staggers until you run out of bullets
+		- He should be staggered when you run out, then hit him with the container and it should kill him
+		- You can use the flash on the bins to ensure his stun as the container is coming for safety
+	[ Regular play ]
+		- If you hit him with the container every time he drops to his knees, you will need to hit him 3 times on hardcore, 2 on others.
+
+	- After you win, grab everything in the battle area then to the Cable Car in the Treatment Pool Room → NEST
+
+< ------------------------------------------------------------- N E S T >
+
+• SECURITY ROOM
+	- Drop Sherry off for a nap and grab flame rounds on the table, exit
+
+• RECEPTION SAVE ROOM
+	- Set up your inventory: Pistol + ammo, wristband
+	- Go to the Visitor Corridor → Cafeteria
+
+• CAFETERIA/KITCHEN
+	- When you enter, go straight right and grab the grenade, then go back left to grab the needles on the counter
+	- Run forward past the zombie eating on the floor, then up the ladder, nothing should touch you
+	- Drop into the Kitchen
+
+• KITCHEN
+	- Grab the large powder and safety knife, and approach the door
+	- The swat zombie should be on the left side of the door, you can headshot him to try and stun and run past, or kill him
+		- You can use your safety knife if he grabs you
+	- Go to Nap Room
+
+• NAP ROOM
+	- Grab the flame rounds on the table and Sparkshot mod in the locker, then combine the wristband chip from the zombie into your own
+	- Exit → Reception → Main Shaft
+		- On the way back, stick the right side wall to avoid accidentally triggering the Cafeteria door with your wristband and letting out zombies
+
+• MAIN SHAFT
+	- Activate the bridge and grab the modulator by the soldier
+	- Head back to the Nap Room
+
+• NAP ROOM
+	- On the way to the Nap Room, in the hall with the swat zombie, a lab coat zombie will appear
+		- The hall is pretty wide so you can dodge
+	- Use the modulator in the Nap Room on the device in the back, then grab the hip pouch in the sleeping pod
+	- Exit → Reception
+
+• RECEPTION SAVE ROOM
+	- Set up your inventory: Grenade Launcher, Flame rounds, wristband, modulator - 5/12
+	- Go to Main Shaft → left bridge → Lobby Save Room → Presentation Room → Specimen Room
+
+• SPECIMEN ROOM
+	- From the door, go forward and an Ivy will be hanging from ceiling, flame round it and it should die
+		- You know they're dead-dead when they turn into black and charred
+	- Continue down the hall and another Ivy will be on the floor, flame round it
+	- Go to Greenhouse Control Room
+
+• GREENHOUSE CONTROL ROOM
+	+ Flash, cartridge - 7/12
+	- Go to the computer and type in "5831" and "2048"
+		- The symbols on the keys are the negative spaces of the numbers
+	- Grab the flash off the table and the solution cartridge from the dispensing machine
+	- Enter the Greenhouse
+
+• GREENHOUSE
+	- Going around the left hand side, an Ivy will be ahead, you can kill that one
+		- Another one is wandering near you, you can take care of it too while you're at it
+	- Go through the covered walkway to the Drug Testing Lab
+
+• DRUG TESTING LAB (Cartridge solution puzzle room)
+	- Insert the cartridge into the machine and press the buttons "BRG-BRG-BRG"
+	- Grab cartridge, grenade by the hazmat body, and the gunpowder on the table
+	- Exit and go further into the Greenhouse to go down the ladder → Maintanance Tunnel → Lounge
+
+• LOUNGE (Vending machines hall)
+	- Walk to where the vending machines are and to the right pick up the 3 flame rounds on the bench
+	- Flame round and kill the 3 zombies on the floor by the tables
+		- The zombie sitting on the far wall isn't live
+	- Use modulator on the device by the vending machines
+	- [Important] WALK down the hall towards the Low-Temp Testing Lab as 2 lickers will drop from the ceiling
+	- Enter Low-Temp Testing Lab
+
+• LOW-TEMP TESTING LAB
+	- Freeze the cartridge in the machine then grab the powder off the table
+	- Exit → Lounge → Server Save Room
+		- On the way through the Lobby, stick to the left side wall to avoid the lickers by the tables
+
+• SERVER SAVE ROOM
+	- Gather everything in the room and set up your inventory: Grenade Launcher, flame rounds, wristband, modulator, cartridge, safety flash, 2 safety knives
+		- You can carry less safety items if you would prefer
+	- Exit and go back to Maintanance Tunnel
+
+• MAINTANANCE TUNNEL
+	- Grab the large powder off the back table and go back up the ladder to the Greenhouse
+
+• GREENHOUSE
+	- On the way back to the Greenhouse Control Room, grab the R on the floor by the covered walkway
+
+• GREENHOUSE CONTROL ROOM
+	- Use the cartridge in the dispensing machine and return to Greenhouse
+
+• GREENHOUSE
+	+ B combine with R - 10/12
+	- Go straight forward down the middle walkway and grab the B in the back to combine with the R you picked up
+		- You can flame round the Ivy's if you want or use your safety knives to escape their grabs when you leave
+	- Return to Greenhouse Control Room
+
+• GREENHOUSE CONTROL ROOM
+	- Go left around the counter to avoid the Ivy to your right when you enter the door
+
+• GREENHOUSE CONTROL ROOM → P-4 LEVEL TESTING LAB
+	- Grab everything you see on the way, there are no more enemies
+
+< ------------------------------------------------------------- BOSS FIGHTS >
+
+• P-4 LEVEL TESTING LAB
+	- Grab everything and save #3
+	- You can set up your inventory based on preference, but you must have the wristband
+		- This is the time to use all the resources you've collected and do whatever you want
+
+• G3
+	- G3 can be perma-stunned if you use acid rounds
+		- If you haven't used any powders so far, you should have enough to make 20+ acid rounds
+		- You have to hit him with the acid round when he is walking normally, not while he is standing still from the stun animation
+		- It is recommended to carry some backup weapons as the acid rounds may not be enough
+		- Bring some full RGB heals just in case
+	- After the fight, grab everything from the arena and head to Main Shaft → down Elevator → Explosion Gauntlet
+
+• EXPLOSION GAUNTLET
+	- Pick up items on the way to the item box in the Escape Shaft Platform
+	- Set up your inventory: Pistol, Grenade Launcher, flame rounds
+	- When you go down the small lift, begin running
+		- 3 Ivy's will get up but just run around them, giving them as much room as you can and you won't get grabbed
+	- While waiting for Sherry to unlock the door, flame round and kill the 2 Ivy's that drop down from the ceiling
+	- You will meet a zombie on fire, just shoot it once and it'll fall
+
+• TRAIN TURNTABLE
+	- Set up your inventory: Leaving 2 spaces for the joint plug, fill your inventory with whatever
+		- I personally grab the SMG, all my grenades, back up pistol, and heals
+	- Grab the joint plug from the train and place it in the Turntable Control Room, then grab the minigun
+• G4
+	- Killing G4 is based on how many eyes you pop, not how much damage you do
+	- You can kill it with only the minigun if you shoot very carefully and only at the eyes
+	- Throwing grenades at it is very effective in popping many eyes at once
+	- Stay at the far ends of the train so when he does his charge attack, you can simply go around the corner to dodge
+	- When he is crawling on the ground and gushing...things, save your ammo and stop shooting, he will time out
+
+• G5
+	- Bring anything
+		- I personally use my leftover minigun, modded SLS60 as a magnum, pistol just in case
+	- Run forward to start the fight and have it come through the door, and back up all the way
+	- Don't shoot it until it opens the center eye completely, then unload and kill

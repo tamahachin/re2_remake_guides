@@ -201,7 +201,7 @@ Inventory Guide for LEON B
 	+ Grenade, powder - 11/12
 • LOUNGE (Vending machines hall)
 	+ Shells - 11/12
-• FREEZING ROOM
+• LOW-TEMP TESTING LAB
 	+ Powder - 12/12
 • SERVER SAVE ROOM
 	= Flamethrower, cartridge, wristband, safety knives x 3 - 7/12
