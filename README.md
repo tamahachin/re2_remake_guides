@@ -4,7 +4,7 @@ All guides are written with hardcore difficulty in mind. Assisted and standard p
 
 These are not speedrun guides, but they should get you S+ time. Around 2hr for A runs, 1hr45m for B runs. 
 
-The only "speed-tech" I use is stair skating, where you tap aim while on stairs every second or so to cancel the stair climbing animation. Not sure how much of a difference that really makes outside of speedrunning, but I feel faster. ¯\_(ツ)_/¯
+The only "speed-tech" I use is stair skating, where you tap aim while on stairs every second or so to cancel the stair climbing animation. Not sure how much of a difference that really makes outside of speedrunning, but I feel faster. ¯\\_(ツ)_/¯
 
 ---
 
