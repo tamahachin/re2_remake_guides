@@ -107,7 +107,7 @@ Inventory Guide for CLAIRE B
 
 < ------------------------------------------------------------- RPD 2 >
 
-• IRON'S OFFICE
+• CHIEF'S OFFICE
 	+ G outside
 	= Heart key, launcher + mod, flame rounds - 4/10
 • EAST STORAGE
@@ -129,7 +129,7 @@ Inventory Guide for CLAIRE B
 < ------------------------------------------------------------- SHERRY → ORPHANGE >
 
 ! SAVE 1
-• IRON'S OFFICE
+• CHIEF'S OFFICE
 	= Parking pass, launcher, 3 flame rounds, JMB + mod, (optional) safety ammo - 5(6)/10
 • GARAGE
 	- Parking pass - 4/10
