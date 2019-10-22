@@ -1,11 +1,15 @@
 [-------------------- 1st run --------------------] . [-------------------- 2nd run --------------------]
                                                     .                                                  
 < ----------------------------------------------- R P D ----------------------------------------------- >
-Lion: Lion, grass, bird                             .                            Lion: Crown, torch, bird  
-Unicorn: Fish, bug, jug               [  West office safe: 9-15-7 ]          Unicorn: Twins, scales, worm  
-Maiden: Woman, bow, snake             [ Waiting room safe: 6-2-11 ]               Maiden: Ram, harp, bird  
-                                                    .                              
-< -------------------------------------------- G A R A G E -------------------------------------------- >  
+                                                    .
+Lion: Lion, grass, bird               [  West office safe: 9-15-7 ]              Lion: Crown, torch, bird  
+Unicorn: Fish, bug, jug               [ Waiting room safe: 6-2-11 ]          Unicorn: Twins, scales, worm  
+Maiden: Woman, bow, snake              [ Shower Room Locker: CAP ]                Maiden: Ram, harp, bird  
+                                            [ 3F Locker: DMC ]
+                                        [ Leon's Desk: NED / MRG ]  
+                                                    .
+< -------------------------------------------- G A R A G E -------------------------------------------- > 
+                                                    . 
 Leon Generator: 0011                                .                                Leon Generator: 0110  
                                                     .                                                     
  Leon panel:             Claire panel:              .              Leon panel:              Claire panel:
@@ -19,9 +23,10 @@ Leon Generator: 0011                                .                           
                                   Move 1st block to 3rd position and solve                                 
                                                     .                                                      
 < --------------------------------------------- S E W E R --------------------------------------------- >  
+                                                    .
 Chess:                                              .                                              Chess:  
 N K                                       [ Sewer safe: 2-12-8 ]                                      K N  
-R Q                                                 .                                                 B R  
+R Q                                    [ Control Room Locker: SZF ]                                   B R  
 B P                                                 .                                                 Q P  
                                                     .                                                      
 Power room: 1101                                    .                                    Power room: 0111
