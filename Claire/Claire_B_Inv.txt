@@ -35,7 +35,7 @@ Inventory Guide for CLAIRE B
 	= Pistol + ammo, knife, cutters, keycard, fuse - 6/8
 • EAST OFFICE
 	+ Powder, valve handle - 8/8
-• EAST OFFICE → LOBBY
+• EAST OFFICE → MAIN HALL
 	- Fuse - 7/8
 • HELL HALL (West halls) → OPERATIONS ROOM → SUPPLY ROOM
 	- Cutters
@@ -47,7 +47,7 @@ Inventory Guide for CLAIRE B
 	+ Grenade launcher, flame rounds, ammo from 109 locker - 7/8
 • STAIRS SAVE ROOM
 	+ G outside save room
-	= Pistol, ammo, knife, valve, detonator - 5/8
+	= Pistol + ammo, knife, valve, detonator - 5/8
 • SAVE ROOM → 2F
 	+ Corner ammo - 5/8
 • SHOWER ROOM
@@ -169,7 +169,7 @@ Inventory Guide for CLAIRE B
 
 < ------------------------------------------------------------- N E S T >
 
-• LOBBY SAVE ROOM
+• RECEPTION SAVE ROOM
 	= Pistol + ammo, wristband - 3/10
 • CAFETERIA/KITCHEN
 	+ Grenade, needles, powder, knife - 7/10
@@ -179,7 +179,7 @@ Inventory Guide for CLAIRE B
 	+ Modulator - 10/10
 • NAP ROOM
 	! Pouch - 10/12
-• LOBBY SAVE ROOM
+• RECEPTION SAVE ROOM
 	= Launcher, flames, bracelet, modulator - 5/12
 • GREENHOUSE CONTROL ROOM
 	+ Flash, cartridge - 7/12
