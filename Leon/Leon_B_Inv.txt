@@ -189,7 +189,7 @@ Inventory Guide for LEON B
 	+ Grenade, fuel, powder, knife - 8/10
 • NAP ROOM
 	+ Ammo, flamethrower mod, wristband chip - 9/10
-• WALKWAY
+• MAIN SHAFT
 	+ Modulator - 10/10
 • NAP ROOM
 	! Pouch - 10/12
