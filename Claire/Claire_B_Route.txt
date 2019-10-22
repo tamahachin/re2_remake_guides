@@ -309,6 +309,15 @@ Route guide for CLAIRE B
 	- Go to other side of the floor and unbolt door back to East Storage
 	- Go through the room to opposite door and downstairs back to Chief's Office
 
+• CHIEF'S OFFICE
+	- Open both orange boxes and place parts in panel by the locked gate with the parking pass
+	- Solve:
+		._   _     
+                  |_|_|_  
+                   _|___|
+                ._| |____..
+	- Grab parking pass and cutscene
+
 < ------------------------------------------------------------- SHERRY >
 
 • BEDROOM
