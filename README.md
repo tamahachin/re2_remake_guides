@@ -8,9 +8,9 @@ These are not speedrun guides, but they should get you S+ time. Around 2hr for A
 
 ### Completed guides:
 - **Inventory Management**
-  - [ ] Claire A
+  - [x] Claire A
   - [x] Claire B
-  - [ ] Leon A
+  - [x] Leon A
   - [x] Leon B
 
 - **General Route Guide**
@@ -21,3 +21,4 @@ These are not speedrun guides, but they should get you S+ time. Around 2hr for A
 
 - **Misc**
   - [x] Code and Puzzle Cheat Sheet
+  - [x] Supplementary guide
