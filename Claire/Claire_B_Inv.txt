@@ -169,6 +169,8 @@ Inventory Guide for CLAIRE B
 
 < ------------------------------------------------------------- N E S T >
 
+• SECURITY ROOM
+	+ Flame rounds
 • RECEPTION SAVE ROOM
 	= Pistol + ammo, wristband - 3/10
 • CAFETERIA/KITCHEN
