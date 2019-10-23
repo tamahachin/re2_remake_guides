@@ -50,7 +50,7 @@ Inventory Guide for LEON B
 • SAFETY DEPOSIT ROOM
 	- Keycard
 	+ Shotgun, reload with ammo - 6/8
-• STAIRS SAFE ROOM
+• DARKROOM SAFE ROOM
 	+ G outside save room
 	= Pistol, ammo, knife, valve, detonator - 5/8
 • SAVE ROOM → 2F
@@ -60,7 +60,7 @@ Inventory Guide for LEON B
 	+ Shells, jewel box 6/8
 • SHOWER ROOM → 3F
 	+ MAG ammo, spade key - 8/8
-• STAIRS SAVE ROOM
+• DARKROOM SAVE ROOM
 	= Knife, detonator, pistol + ammo, jewel box, spade key - 6/8
 • WEST OFFICE
 	! Pouch

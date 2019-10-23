@@ -82,13 +82,13 @@ Route guide for CLAIRE B
 	- Use keycard and grab Grenade Launcher and flame rounds, reloading
 	- Exit and head towards stairs save room
 
-• OUTSIDE STAIRS SAVE ROOM
+• STAIRS OUTSIDE DARKROOM SAVE ROOM
 	- If you're fast enough, you can de-leg the window zombie with a knife before he gets up. Kill him.
 	- A female zombie will drop down behind you, back up if you haven't taken care of window zombie yet and kill both
 	- Board up the window with boards nearby and grab G
 	- Enter save room
 
-• STAIRS SAVE ROOM
+• DARKROOM SAVE ROOM
 	- Gather everything in save room and set up inventory: Pistol + ammo, knife, valve, detonator - 5/8
 	- Exit and head upstairs
 
@@ -108,7 +108,7 @@ Route guide for CLAIRE B
 	- Open locker with "DCM" and grab SMG ammo, then spade key on desk
 	- Go downstairs → Stairs save room
 
-• STAIRS SAVE ROOM
+• DARKROOM SAVE ROOM
 	- Set up your inventory: Pistol + ammo, knife, detonator, jewel box, spade key
 	- Exit → West Office
 

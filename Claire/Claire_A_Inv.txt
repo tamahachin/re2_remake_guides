@@ -30,7 +30,7 @@ Inventory Guide for CLAIRE A
 	+ Ammo - 3/8
 • WEST OFFICE HALL (Vending machines hall)
 	+ Ammo - 4/8
-• STAIRS SAVE ROOM
+• DARKROOM SAVE ROOM
 	! You can grab G outside and put in item box or leave for later
 	= Pistol + ammo, knife - 3/8
 • SAVE ROOM → 2F
@@ -65,7 +65,7 @@ Inventory Guide for CLAIRE A
 	- Key card, portable safe
 	! KEYPAD PIECE GOES IN 2, OPEN 102, 109, 208
 	+ Launcher, flames, powder, ammo - 10/10
-• STAIRS SAVE ROOM
+• DARKROOM SAVE ROOM
 	= Pistol + ammo, valve, detonator - 4/10
 • SHOWER ROOM
 	- Valve
