@@ -55,10 +55,10 @@ Inventory Guide for LEON B
 	= Pistol, ammo, knife, valve, detonator - 5/8
 • SAVE ROOM → 2F
 	+ Corner ammo - 5/8
-• SHOWER ROOM
+• MEN'S LOCKER ROOM
 	- Valve
 	+ Shells, jewel box 6/8
-• SHOWER ROOM → 3F
+• MEN'S LOCKER ROOM → 3F
 	+ MAG ammo, spade key - 8/8
 • DARKROOM SAVE ROOM
 	= Knife, detonator, pistol + ammo, jewel box, spade key - 6/8

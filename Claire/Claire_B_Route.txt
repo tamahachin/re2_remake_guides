@@ -94,10 +94,10 @@ Route guide for CLAIRE B
 
 • SAVE ROOM → 2F
 	- Grab the ammo in the corner at the top of the stairs, 2F
-	- A zombie will be either outside the shower room or coming down the stairs, de-leg and kill
-	- Go to shower room
+	- A zombie will be either outside the Men's Locker Room or coming down the stairs, de-leg and kill
+	- Go to Men's Locker Room
 
-• SHOWER ROOM
+• MEN'S LOCKER ROOM
 	- Use valve on shower, open locker with "CAP" and grab flame rounds from there and the locker nearby, and jewel box on shelf
 	- Exit back to hallway → upstairs
 
@@ -150,7 +150,7 @@ Route guide for CLAIRE B
 • MAIN HALL
 	- Grab Lion medal with "Crown, Torch, Bird"
 	- Place both lion and unicorn medals in the statue
-	- Go to East Office → Stairs outside save room → 2F → Shower room → through shower to STARS office hallway
+	- Go to East Office → Stairs outside save room → 2F → Men's Locker Room → through shower to STARS office hallway
 
 • STARS OFFICE HALL
 	- Grab flame rounds on the couch outside the women's locker room
@@ -161,7 +161,7 @@ Route guide for CLAIRE B
 	- Unlock weapons locker with USB key, then grab USB key back
 	- Grab the SMG, ammo from trolley, flame rounds on desk, spray in first aid bag, powder on filing cabinet
 	- Exit STARS office and sprint to the right as Mr. X has spawned on the left around the corner
-	- Go Shower Room → Upstairs to 3F → West Storage Room
+	- Go Men's Locker Room → Upstairs to 3F → West Storage Room
 		- Mr. X music will play when you get to where the spade key was, but will fade out when you go to the storage room, don't panic
 
 • WEST STORAGE ROOM

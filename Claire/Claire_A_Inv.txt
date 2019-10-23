@@ -35,9 +35,9 @@ Inventory Guide for CLAIRE A
 	= Pistol + ammo, knife - 3/8
 • SAVE ROOM → 2F
 	+ Corner ammo - 3/8
-• SHOWER ROOM
+• MEN'S LOCKER ROOM
 	+ Flames, portable safe - 5/8
-• SHOWER ROOM → 3F
+• MEN'S LOCKER ROOM → 3F
 	+ Spade key, ammo - 6/8
 • WEST OFFICE
 	! Pouch
@@ -67,7 +67,7 @@ Inventory Guide for CLAIRE A
 	+ Launcher, flames, powder, ammo - 10/10
 • DARKROOM SAVE ROOM
 	= Pistol + ammo, valve, detonator - 4/10
-• SHOWER ROOM
+• MEN'S LOCKER ROOM
 	- Valve
 	+ Powder - 4/10
 • STARS OFFICE HALL

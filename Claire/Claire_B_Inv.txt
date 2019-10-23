@@ -50,10 +50,10 @@ Inventory Guide for CLAIRE B
 	= Pistol + ammo, knife, valve, detonator - 5/8
 • SAVE ROOM → 2F
 	+ Corner ammo - 5/8
-• SHOWER ROOM
+• MEN'S LOCKER ROOM
 	- Valve
 	+ Fire rounds, jewel box 6/8
-• SHOWER ROOM → 3F
+• MEN'S LOCKER ROOM → 3F
 	+ Sub ammo, spade key - 8/8
 • STAIRS SAVE ROOM
 	= Knife, detonator, pistol + ammo, jewel box, spade key - 6/8
