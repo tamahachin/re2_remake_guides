@@ -6,7 +6,6 @@ Resident Evil 2 Remake - Supplementary Notes
 
 - Claire runs faster in caution
 
-
 - G2 can die on hardcore with Claire's silenced SMG with 280 bullets and only 1 container swing.
 	- It's actually less bullets, but the extra is for misses and safety. You can get away with even less bullets if you hit major damage points such as the head or his giant eye.
 
@@ -41,9 +40,9 @@ Resident Evil 2 Remake - Supplementary Notes
 
 - In the gas station, after you witness the sheriff die, run past the zombie on the right side. Once you grab the key, wait for it to walk to the back wall/disappear behind the shelves and you can run by it again.
 
-- After "rescuing" Elliot in the Watchman's room, stand by the desk and wait for the zombie to knock on the door. On the third knock, you can run past him as he opens the door.
+- After "rescuing" Elliot in the Watchman's room, stand by the desk and wait for the zombie to knock on the door. When he opens the door, you can run past him on the right.
 
-- Once you pass the press room doors, 2 zombies come from the right hand corner. Run against the white cabinet on the right and you'll avoid them both.
+- After when you're going back to the Main Hall, once you pass the press room doors, 2 zombies come from the right hand corner. Run against the white cabinet on the right and you'll avoid them both.
 
 - The licker outside the STARS office is stuck in an animation when you first encounter it. You can ignore it and run into the office.
 	- Walk back to the shower room when you're done with the office and you never have to deal with it.
