@@ -24,3 +24,8 @@ The only "speed-tech" I use is stair skating, where you tap aim while on stairs 
 - **Misc**
   - [x] Code and Puzzle Cheat Sheet
   - [x] Supplementary guide
+
+---
+
+### My results:
+![Image of S+](https://external-preview.redd.it/9ctFDJ68_wR-aIYRK0UgUZblv2j0urnCE3kv2FHQjcQ.jpg?auto=webp&s=732ae4268abe8441f33cfb73d5db34750524a04b)
