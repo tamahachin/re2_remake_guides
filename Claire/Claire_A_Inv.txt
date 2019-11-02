@@ -55,7 +55,7 @@ Inventory Guide for CLAIRE A
 • FIRE ESCAPE
 	+ Ammo, cutters - 7/10
 • EAST OFFICE
-	+ Fuse, valve, ammo, flash - 10/10
+	+ Fuse, valve, flash - 10/10
 • EAST OFFICE → MAIN HALL
 	- Fuse - 9/10
 • HELL HALL (West halls) → OPERATIONS ROOM → SUPPLY ROOM
@@ -94,26 +94,28 @@ Inventory Guide for CLAIRE A
 	= Nothing - 0/12
 • FIRING RANGE
 	+ Car key, flame rounds - 2/10
+• OUTSIDE KENNEL
+	+ B - 3/10
 • KENNEL
-	+ Powder - 3/12
+	+ Powder - 4/10
 • MORGUE
-	+ Flash, R, Diamond key - 6/10
+	+ Flash, R, Diamond key - 7/10
 • GARAGE
 	- Car key
-	+ Pistol - 6/10
+	+ Pistol - 7/10
 • ELEVATOR CONTROL ROOM
-	+ Launcher mod, powder, B - 9/10
+	+ Launcher mod, powder, B - 10/10
 
 < ------------------------------------------------------------- RPD 2 >
 
 • CHIEF'S OFFICE
-	+ G outside
+	+ G outside, powder in Private Collection Room
 	= Heart key, launcher + mod, flames - 4/10
 • EAST STORAGE
 	+ Gear, panel part, B, safety knife - 9/10
 • ROOF
 	- Safety knife on female zombie at stairs after turning water handle - 8/10
-• HELICOPTER HALL → FIRE ESCAPE
+• HELICOPTER HALL → OUTSIDE FIRE ESCAPE
 	+ R, G, combine with B - 9/10
 • RECORDS ROOM
 	+ Jack, grenade - 10/10
@@ -130,10 +132,12 @@ Inventory Guide for CLAIRE A
 ! SAVE 1
 • CHIEF'S OFFICE
 	= Parking pass, launcher, 3 flame rounds, JMB + mod, (optional) safety ammo - 5(6)/10
+• OUTSIDE CHIEF'S OFFICE
+	+ G outside office - 6/10
 • GARAGE
-	- Parking pass - 4/10
+	- Parking pass - 5/10
 • GARAGE → ORPHANAGE
-	+ G, B, grenade - 7/10
+	+ G, B, grenade - 8/10
 
 < ------------------------------------------------------------- SEWER : Timecheck 1 hr>
 

@@ -105,17 +105,19 @@ Inventory Guide for LEON B
 • GARAGE
 	- Car key
 	+ Matilda stock - 6/10
+• GARAGE → KENNEL
+	+ B 7/10
 • KENNEL
-	+ Powder - 7/10
+	+ Powder - 8/10
 • BREAKER ROOM
-	+ Panel part, G- 9/10
+	+ Panel part, G combine with B - 9/10
 
 < ------------------------------------------------------------- RPD 2 >
 
 • BREAK ROOM SAVE ROOM
 	= Shotgun + shells, crank, grenade - 4/10
 • OUTSIDE SAVE ROOM
-	- Grenade on zombie group around corner, fuse - 3/10
+	- Grenade on zombie group around corner - 3/10
 • FIRE ESCAPE → ART ROOM HALL → UPSTAIRS FROM IRON'S OFFICE
 	- Crank
 	+ Ammo, flash - 4/10
