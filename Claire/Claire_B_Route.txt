@@ -89,7 +89,7 @@ Route guide for CLAIRE B
 	- Enter save room
 
 • DARKROOM SAVE ROOM
-	- Gather everything in save room and set up inventory: Pistol + ammo, knife, valve, detonator - 5/8
+	- Gather everything in save room and set up inventory: Pistol + ammo, knife, valve, detonator
 	- Exit and head upstairs
 
 • SAVE ROOM → 2F
@@ -102,7 +102,6 @@ Route guide for CLAIRE B
 	- Exit back to hallway → upstairs
 
 • 3F
-	+ Sub ammo, spade key - 8/8
 	- Grab ammo on the boxes upstairs
 	- A zombie will wander out by the mannequin shadow, de-leg. You can kill if you want, but he's easy to dodge when he's crawling
 	- Open locker with "DCM" and grab SMG ammo, then spade key on desk
@@ -121,7 +120,6 @@ Route guide for CLAIRE B
 	- Go Main Hall → upstairs → Library
 
 • LIBRARY
-	+ Unicorn medal, ammo, red book 8/10
 	- Unlock the spade door and open with button press
 		- The female zombie will likely be right by the door. Let her break out into the Main Hall, then de-leg and kill
 	- Enter library, de-leg and kill the large zombie sitting to the right of the door
@@ -264,7 +262,6 @@ Route guide for CLAIRE B
 	- Through the door to East Hallway (Helicopter Hall as I call it)
 
 • HELICOPTER HALL → WAITING ROOM
-	+ R, G, combine with B - 8/10
 	- Upon entering, grab the R on the floor and combine with B
 	- Get past Mr. X
 		- You can stand in front of him as he lifts the helicopter and bait out the punch, running back a little dodge, then slip by his right side
@@ -278,7 +275,6 @@ Route guide for CLAIRE B
 	- Unlock heart door in Supply Room → Records Room
 
 • RECORDS ROOM
-	+ Jack, grenade - 10/10
 	- Grab the Jack handle and grenade on the table, then run to the other end of the room
 	- Mr. X usually breaks in (very rarely he just gets lost)
 		- Run him around the shelves and exit
@@ -301,7 +297,6 @@ Route guide for CLAIRE B
 	- Grab orange box in clock tower and exit
 
 • MAIN HALL 3F
-	+ G - 10/10
 	- Grab G to the right of the door
 	- Mr. X likely won't be in the way, but if he is, just run him a circle to get around
 	- There is a chance the officer zombie on the opposite side is facing to the right, you can attempt to slip past behind him
@@ -382,7 +377,6 @@ Route guide for CLAIRE B
 	- Exit to Treatment Pool Room
 
 • TREATMENT POOL ROOM
-	+ R, T-bar - 5/10
 	- Pull level and cross bridge, turn left
 	- Grab the R in the corner and T-Bar handle on the table
 	- Go back and through the door to Downstairs Central Hub
@@ -405,7 +399,6 @@ Route guide for CLAIRE B
 	- Flame round the hi-vis vest zombie and get up on the platform → through door, upstairs → Supplies Storage Room
 
 • SUPPLIES STORAGE ROOM
-	+ Q/K plugs, spark shot- 10/10
 	- Downstairs, grab Queen plug, plug it in the next spot by the zombie on the floor, flame round the zombie
 	- Through the gate, go up the stairs halfway, then down to flame round the zombie that drops
 	- Grab King plug and drop down, then back through the gate towards the charred zombie
@@ -434,7 +427,6 @@ Route guide for CLAIRE B
 	- Grab MAG rounds on bins to the left, then up the lift → Work Room
 
 • WORK ROOM
-	+ Powder, B, MAG rounds, ammo, rook piece - 9/10
 	- Flame round the zombie on the floor
 	- Grab pistol ammo, then unbolt the door and exit
 	- Quickly grab the rook piece from the wall then run back to the Work Room to avoid the zombie around the corner
@@ -449,7 +441,6 @@ Route guide for CLAIRE B
 	- Return to Monitor Room Save Room
 
 • MONITOR ROOM SAVE ROOM
-	= SMG + mod, 280 ammo - 4/10
 	- Standing facing the bulletin boards by the chess puzzle, the order is:
 		KING	KNIGHT
 		BISHOP	ROOK
@@ -520,7 +511,7 @@ Route guide for CLAIRE B
 	- Exit → Reception
 
 • RECEPTION SAVE ROOM
-	- Set up your inventory: Grenade Launcher, Flame rounds, wristband, modulator - 5/12
+	- Set up your inventory: Grenade Launcher, Flame rounds, wristband, modulator
 	- Go to Main Shaft → left bridge → Lobby Save Room → Presentation Room → Specimen Room
 
 • SPECIMEN ROOM
@@ -530,7 +521,6 @@ Route guide for CLAIRE B
 	- Go to Greenhouse Control Room
 
 • GREENHOUSE CONTROL ROOM
-	+ Flash, cartridge - 7/12
 	- Go to the computer and type in "5831" and "2048"
 		- The symbols on the keys are the negative spaces of the numbers
 	- Grab the flash off the table and the solution cartridge from the dispensing machine
@@ -574,7 +564,6 @@ Route guide for CLAIRE B
 	- Use the cartridge in the dispensing machine and return to Greenhouse
 
 • GREENHOUSE
-	+ B combine with R - 10/12
 	- Go straight forward down the middle walkway and grab the B in the back to combine with the R you picked up
 		- You can flame round the Ivy's if you want or use your safety knives to escape their grabs when you leave
 	- Return to Greenhouse Control Room
