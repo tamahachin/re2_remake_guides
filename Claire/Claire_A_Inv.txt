@@ -74,7 +74,7 @@ Inventory Guide for CLAIRE A
 	+ Flames - 5/10
 • STARS OFFICE
 	+ Battery, flash, flames, powder, spray, R - 9/10
-• STORAGE
+• WEST STORAGE ROOM
 	- Detonator
 	! Extra ammo on the shelf if needed
 	+ Maiden medal - 10/10
@@ -91,7 +91,7 @@ Inventory Guide for CLAIRE A
 < ------------------------------------------------------------- GARAGE >
 
 • GARAGE SAVE ROOM
-	= Nothing - 0/12
+	= Nothing - 0/10
 • FIRING RANGE
 	+ Car key, flame rounds - 2/10
 • OUTSIDE KENNEL
