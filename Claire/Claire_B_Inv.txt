@@ -151,7 +151,7 @@ Inventory Guide for CLAIRE B
 • DOWNSTAIRS CENTRAL HUB
 	+ G combine with R, grenade - 6/10
 • SUPPLIES STORAGE ROOM
-	+ Q/K plugs, spark shot- 10/10
+	+ Q/K plugs, spark shot, B combine with RG- 10/10
 • SAVE ROOM
 	= T-bar, launcher, flames - 4/10
 • SAVE ROOM → WORK ROOM
@@ -200,14 +200,14 @@ Inventory Guide for CLAIRE B
 • GREENHOUSE CONTROL ROOM
 	- Cartridge - 10/12
 • GREENHOUSE
-	+ B combine with R - 10/12
+	+ B combine with R, wristband chip combine with wristband - 10/12
 • GREENHOUSE → G3
 	+ Everything
 • G3
 	! SAVE 3
 	= Fighting loadout + wristband
 • GAUNTLET
-	= Launcher/flames OR pistol/ammo
+	= Launcher/flames, reloaded pistol
 • G4
 	= RGB x 2, grenades, back up SMG + ammo and pistol + ammo - 8/12 (2 free spaces for more grenades or heals)
 • G5

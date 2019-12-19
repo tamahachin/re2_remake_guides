@@ -209,7 +209,7 @@ Inventory Guide for LEON A
 • GREENHOUSE CONTROL ROOM
 	- Cartridge - 7/10
 • GREENHOUSE
-	+ B combine with R - 7/10
+	+ B combine with R, wristband chip combine with wristband - 7/10
 • GREENHOUSE → G3
 	+ Everything
 • G3

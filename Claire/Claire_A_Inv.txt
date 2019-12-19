@@ -127,7 +127,7 @@ Inventory Guide for CLAIRE A
 • OUTSIDE CLOCK TOWER
 	+ G - 10/10
 
-< ------------------------------------------------------------- SHERRY → ORPHANGE >
+< ------------------------------------------------------------- SHERRY → ORPHANAGE >
 
 ! SAVE 1
 • CHIEF'S OFFICE
@@ -145,14 +145,14 @@ Inventory Guide for CLAIRE A
 	= Launcher, flame rounds - 3/10
 • CONTROL ROOM
 	+ Flame rounds - 3/10
-• CHESS PUZZLE SAVE ROOM
+• MONITOR ROOM SAVE ROOM
 	= Launcher, flame rounds - 3/10
 • TREATMENT POOL ROOM
 	+ R, T-bar - 5/10
 • DOWNSTAIRS CENTRAL HUB
 	+ G combine with R, grenade - 6/10
 • SUPPLIES STORAGE ROOM
-	+ Q/K plugs, spark shot - 10/10
+	+ Q/K plugs, spark shot, B - 10/10
 • SAVE ROOM
 	= T-bar, launcher, flames - 4/10
 • SAVE ROOM → WORK ROOM
@@ -197,20 +197,21 @@ Inventory Guide for CLAIRE A
 • MAINTANANCE TUNNEL
 	+ Powder - 8/10
 • GREENHOUSE → GREENHOUSE CONTROL ROOM
-	+ R - 11/12
+	+ R - 9/10
 • GREENHOUSE CONTROL ROOM
-	- Cartridge - 10/12
+	- Cartridge - 8/10
 • GREENHOUSE
-	+ B combine with R - 10/12
+	+ B combine with R, wristband chip combine with wristband - 8/10
 • GREENHOUSE → G3
 	+ Everything
+	! Can drop everything off at the Lobby Save Room first
 • G3
 	! SAVE 3
 	= Fighting loadout + wristband
 • GAUNTLET
-	= Launcher/flames OR pistol/ammo
+	= Launcher/flames, reloaded pistol
 • G4
-	= RGB x 2, grenade, pistol + ammo - 5/10 (3 free spaces)
+	= RGB x 2, grenades, pistol + ammo - 5/10 (3 free spaces)
 
 
 

@@ -212,7 +212,7 @@ Inventory Guide for LEON B
 • GREENHOUSE → GREENHOUSE CONTROL ROOM
 	+ R - 9/12
 • GREENHOUSE
-	+ B combine with R - 9/12
+	+ B combine with R, wristband chip combine with wristband - 9/12
 • GREENHOUSE → G3
 	+ Everything
 • G3
