@@ -16,7 +16,7 @@ The only "speed-tech" I use is stair skating, where you tap aim while on stairs 
   - [x] Leon B
 
 - **Route Guide** (Includes inventory management help)
-  - [ ] Claire A
+  - [x] Claire A
   - [x] Claire B
   - [ ] Leon A
   - [ ] Leon B
