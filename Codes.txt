@@ -5,7 +5,7 @@
 Lion: Lion, grass, bird               [  West office safe: 9-15-7 ]              Lion: Crown, torch, bird  
 Unicorn: Fish, bug, jug               [ Waiting room safe: 6-2-11 ]          Unicorn: Twins, scales, worm  
 Maiden: Woman, bow, snake              [ Shower Room Locker: CAP ]                Maiden: Ram, harp, bird  
-                                            [ 3F Locker: DMC ]
+                                            [ 3F Locker: DCM ]
                                         [ Leon's Desk: NED / MRG ]  
                                                     .
 < -------------------------------------------- G A R A G E -------------------------------------------- > 
