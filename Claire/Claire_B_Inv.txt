@@ -142,8 +142,10 @@ Inventory Guide for CLAIRE B
 	+ Sub ammo - 8/10
 • SEWER OFFICE SAVE ROOM
 	= Launcher, flame rounds - 3/10
+• SEWER OFFICE SAVE ROOM → CONTROL ROOM
+	+ B, powder - 5/10
 • CONTROL ROOM
-	+ Sub ammo, flame rounds - 4/10
+	+ Sub ammo, flame rounds - 6/10
 • CHESS PUZZLE SAVE ROOM
 	= Launcher, flame rounds - 3/10
 • TREATMENT POOL ROOM
@@ -151,11 +153,11 @@ Inventory Guide for CLAIRE B
 • DOWNSTAIRS CENTRAL HUB
 	+ G combine with R, grenade - 6/10
 • SUPPLIES STORAGE ROOM
-	+ Q/K plugs, spark shot, B combine with RG- 10/10
-• SAVE ROOM
-	= T-bar, launcher, flames - 4/10
+	+ Q/K plugs, B combine with RG- 8/10
 • SAVE ROOM → WORK ROOM
-	+ Powder, B, MAG rounds, ammo, rook piece - 9/10
+	+ MAG rounds, rook piece - 10/10
+• SAVE ROOM
+	- Drop off something - 9/10
 • TREATMENT POOL ROOM
 	+ MAG mod - 10/10
 

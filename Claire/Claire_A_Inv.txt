@@ -143,8 +143,10 @@ Inventory Guide for CLAIRE A
 
 • SEWER OFFICE SAVE ROOM
 	= Launcher, flame rounds - 3/10
+• SEWER OFFICE SAVE ROOM → CONTROL ROOM
+	+ B, powder - 5/10
 • CONTROL ROOM
-	+ Flame rounds - 3/10
+	+ Flame rounds - 5/10
 • MONITOR ROOM SAVE ROOM
 	= Launcher, flame rounds - 3/10
 • TREATMENT POOL ROOM
@@ -152,11 +154,11 @@ Inventory Guide for CLAIRE A
 • DOWNSTAIRS CENTRAL HUB
 	+ G combine with R, grenade - 6/10
 • SUPPLIES STORAGE ROOM
-	+ Q/K plugs, spark shot, B - 10/10
-• SAVE ROOM
-	= T-bar, launcher, flames - 4/10
+	+ Q/K plugs, B combine with RG - 8/10
 • SAVE ROOM → WORK ROOM
-	+ Powder, B, MAG rounds, ammo, rook piece - 9/10
+	+ MAG rounds, rook piece - 10/10
+• SAVE ROOM
+	- Drop off something - 9/10
 • TREATMENT POOL ROOM
 	+ MAG mod - 10/10
 
@@ -175,9 +177,9 @@ Inventory Guide for CLAIRE A
 • RECEPTION SAVE ROOM
 	= Pistol + ammo, wristband - 3/10
 • CAFETERIA/KITCHEN
-	+ Grenade, needles, powder, knife - 7/10
+	+ Grenade, powder, knife - 6/10
 • NAP ROOM
-	+ Flame rounds, spark shot mod, wristband chip - 9/10
+	+ Flame rounds, wristband chip - 7/10
 • RECEPTION SAVE ROOM
 	= Launcher, flames, wristband - 4/10
 • GREENHOUSE CONTROL ROOM
