@@ -67,6 +67,7 @@ Route guide for CLAIRE B
 • WEST HALLS → OPERATIONS ROOM → SUPPLY ROOM
 	- Grab ammo from the bench in Reception
 	- Go to West Halls → Operations Room
+		[Important] WALK until last right turn before Operations Room to avoid Licker
 	- Grab ammo from the chairs on the left, then break chains on the door in the back
 	- Discard bolt cutters and enter Supply Room
 	- Grab detonator and ammo, unlock bolted door, exit to vending machine hall
